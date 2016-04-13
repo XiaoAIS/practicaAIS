@@ -342,6 +342,7 @@ public class panel_calculadora extends JPanel{
             case KeyEvent.VK_BACK_SPACE:procesarComando("<=");
         }
         System.out.println("procesarkey:"+key);
+        System.out.println("Prueba rama");
     }
     
     
